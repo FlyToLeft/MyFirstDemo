@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.open_layotu);
+        //这是主界面
     }
 
     public void openServer(View view) {
